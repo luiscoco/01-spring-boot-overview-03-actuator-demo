@@ -53,3 +53,7 @@ To see the **actuator** capabilities in action:
 ◦ **http://localhost:8080/actuator/beans**: Lists all the Spring beans in your application.
 
 ◦ **http://localhost:8080/actuator/mappings**: Shows all the @RequestMapping paths.
+
+For security, in a production environment, you should be selective about which endpoints you expose. 
+
+For example, you could replace * with a comma-separated list like health,info.

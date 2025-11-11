@@ -1,5 +1,7 @@
 # My Cool App
 
+https://www.udemy.com/course/spring-hibernate-tutorial
+
 This is a demo project for **Spring Boot**.
 
 ## Main Features
